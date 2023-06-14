@@ -1,2 +1,5 @@
 # 2110010189_MuhammadRifki
-Di upload untuk memenuhi Tugas uts PBO
+Pemrograman Berbasis Objek 1
+
+Di upload untuk memenuhi Tugas PBO
+
